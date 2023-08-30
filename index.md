@@ -5,3 +5,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Here is my task list
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
